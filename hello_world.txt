@@ -1,1 +1,2 @@
-Hello AB! This is a git test!!
+Hello AB! This is a git test!!    
+Please make sure that you follow all the versions that are included in the module.
